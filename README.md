@@ -4,3 +4,4 @@
 4. Factorial - Loop
 5. Display String
 6. Bank Management System - Basic
+7. Bank Management System - Intermediate
